@@ -61,4 +61,14 @@ h2{
     color: #a5f;    
 }
 
+/* 14 rgb */
+
+.rgb{
+    color: rgb(255, 0, 0);
+}
+.mixed-rgb{
+    color: rgb(199, 21, 47);
+
+}
+
 
