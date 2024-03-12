@@ -43,3 +43,13 @@ h2{
 .color-name{
     color: chartreuse;
 }
+/* 12 hex */
+
+.hex{
+    background-color: green;
+}
+.hex-2{
+    background-color: #55a398;
+}
+
+
