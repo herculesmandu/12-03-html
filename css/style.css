@@ -104,4 +104,16 @@ color: #000;
     background-position: center;
     background-size: cover;
 }
+ /* l9 largura e altura */
+  
+ .without-padding,
+ .padding{
+    background-color: #111;
+    color: #fff;
+ }
 
+ .padding{
+    background-color: #333;
+    padding: 20px;
+    
+ }
